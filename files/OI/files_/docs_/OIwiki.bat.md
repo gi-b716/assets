@@ -6,6 +6,8 @@
 
 ## OIwiki.bat
 
+一个用于快捷启动OIwiki的批处理文件
+
 ### 安装前准备
 
 要使用OIwiki.bat，需要确认电脑上安装有python2/python3及git。
