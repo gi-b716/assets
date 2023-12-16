@@ -1,4 +1,4 @@
-# ./OI/
+# /OI/
 
 [OI-wiki.pdf 2023/12/16 41.7MB][下载链接]
 
@@ -13,4 +13,4 @@ OIwiki的静态pdf
 
 ---
 
-[下载链接]: https://gi-b716.github.io/assets/files/OI/files_/OI-wiki.pdf
+[下载链接]: ../OI-wiki.pdf

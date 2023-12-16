@@ -1,4 +1,4 @@
-# ./OI/
+# /OI/
 
 [OIwiki.bat 2023/12/16 869字节][下载链接]
 
@@ -22,4 +22,4 @@
 
 ---
 
-[下载链接]: https://gi-b716.github.io/assets/files/OI/files_/OIwiki.bat
+[下载链接]: ../OIwiki.bat
