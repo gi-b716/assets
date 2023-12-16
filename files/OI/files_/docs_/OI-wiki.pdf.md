@@ -1,6 +1,7 @@
 # /OI/
 
 [OI-wiki.pdf 2023/12/16 41.7MB][下载链接]
+[（使用内建pdf查看器浏览）][pdfjs]
 
 ---
 
@@ -14,3 +15,4 @@ OIwiki的静态pdf
 ---
 
 [下载链接]: ../OI-wiki.pdf
+[pdfjs]: ../../../../pdfjs_/web/viewer.html?file=../../files/OI/files_/OI-wiki.pdf
