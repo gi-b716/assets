@@ -1,6 +1,7 @@
 ::自定义设置开始
 set pythonver=3
 set pythonpath=python
+set gitpath=git
 set mirrorurl=oi-wiki.org
 ::自定义设置结束
 
@@ -31,8 +32,8 @@ exit
 rmdir /s/q OI-wiki
 md OI-wiki
 set /p inputu=github/gitee?:
-if %inputu%==gitee git clone https://gitee.com/OI-wiki/OI-wiki.git -b gh-pages
-if %inputu%==github git clone https://github.com/OI-wiki/OI-wiki.git -b gh-pages
+if %inputu%==gitee %gitpath% clone https://gitee.com/OI-wiki/OI-wiki.git -b gh-pages
+if %inputu%==github %gitpath% clone https://github.com/OI-wiki/OI-wiki.git -b gh-pages
 cls
 goto local
 exit
