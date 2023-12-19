@@ -14,4 +14,4 @@
 ---
 
 [downloadurl]: ../---
-[pdfjs]: ../../../../pdfjs_/web/viewer.html?file=../../files/---/files_/---.pdf
+[pdfjs]: ../../../../internal__/pdfjs_/web/viewer.html?file=../../../files/---/files_/---.pdf
