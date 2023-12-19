@@ -18,5 +18,10 @@ OIwiki的静态pdf，公式使用Typst。
 
 ---
 
+[返回目录][目录]
+
+---
+
 [下载链接]: ../OI-wiki-typst.pdf
 [pdfjs]: ../../../../internal__/pdfjs_/web/viewer.html?file=../../../files/OI/files_/OI-wiki-typst.pdf
+[目录]: ../../
