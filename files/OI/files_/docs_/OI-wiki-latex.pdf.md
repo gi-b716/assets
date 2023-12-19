@@ -18,5 +18,10 @@ OIwiki的静态pdf，公式使用LaTeX。
 
 ---
 
+[返回目录][目录]
+
+---
+
 [下载链接]: ../OI-wiki-latex.pdf
 [pdfjs]: ../../../../internal__/pdfjs_/web/viewer.html?file=../../../files/OI/files_/OI-wiki-latex.pdf
+[目录]: ../../
