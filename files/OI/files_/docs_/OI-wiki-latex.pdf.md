@@ -14,7 +14,7 @@ OIwiki的静态pdf，公式使用LaTeX。
 - 到目前为止（2023/12/16），导出为pdf的OI-wiki已经拥有2500+页，加载速度不容乐观，请酌情使用
 - github actions每周会定期自动构建最新的pdf文件，不保证会在此网站上实时同步，可在[此处](https://github.com/OI-wiki/OI-Wiki-export/releases/latest)下载最新版
 
-[Typst版见此处](OI-wiki-Typst.pdf)
+[Typst版见此处](OI-wiki-typst.pdf)
 
 ---
 
