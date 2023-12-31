@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'dyh';
+    src: url(../fonts/SmileySans-Oblique.otf.woff2) format('woff2');
+}
+
+header {
+    font-family: 'dyh';
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    height: auto;
+}
+
+footer {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    background-color: rgb(225, 225, 225);
+    height: 32px;
+    position:absolute;
+	bottom:0;
+	width:90%;
+}
